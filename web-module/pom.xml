@@ -62,6 +62,7 @@
           <configuration>
             <archive>
               <manifest>
+                <addClasspath>true</addClasspath>
                 <mainClass>com.gmail.eugene.shchemelyov.web.App</mainClass>
               </manifest>
             </archive>
